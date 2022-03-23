@@ -8,3 +8,4 @@ org.eclipse.cdt.dsf.gdb.gdbRemotedescriptorType\:BlinkL4\ Debug/activeLaunchTarg
 org.eclipse.cdt.dsf.gdb.gdbRemotedescriptorType\:F103RE_LEDS\ Debug/activeLaunchMode=run
 org.eclipse.cdt.dsf.gdb.gdbRemotedescriptorType\:F103RE_LEDS\ Debug/activeLaunchTarget=null\:---
 org.eclipse.cdt.dsf.gdb.gdbRemotedescriptorType\:RTOS_1\ Debug/activeLaunchMode=debug
+org.eclipse.cdt.dsf.gdb.gdbRemotedescriptorType\:RTOS_1\ Debug/activeLaunchTarget=null\:---
